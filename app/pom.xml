@@ -44,8 +44,7 @@ limitations under the License.
         <java-mail.version>1.4.7</java-mail.version>
         <jsp-api.version>2.2</jsp-api.version>
         <jstl.version>1.2</jstl.version>
-        <log4j.version>1.2.17</log4j.version>
-        <log4j2.version>2.10.0</log4j2.version>
+        <log4j2.version>2.13.3</log4j2.version>
         <lucene.version>4.10.4</lucene.version>
         <oauth-core.version>20100527</oauth-core.version>
         <maven-war.version>3.1.0</maven-war.version>
@@ -196,12 +195,6 @@ limitations under the License.
             <artifactId>lucene-queryparser</artifactId>
             <scope>compile</scope>
             <version>${lucene.version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>${log4j.version}</version>
         </dependency>
 
         <dependency>
