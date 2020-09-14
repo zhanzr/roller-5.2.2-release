@@ -34,7 +34,7 @@ limitations under the License.
 
     <properties>
         <angular.version>1.2.29</angular.version>
-        <ant.version>1.10.1</ant.version>
+        <ant.version>1.10.8</ant.version>
         <commons-validator.version>1.6</commons-validator.version>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <commons-httpclient.version>3.1</commons-httpclient.version>
