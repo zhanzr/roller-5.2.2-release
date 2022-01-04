@@ -44,7 +44,7 @@ limitations under the License.
         <java-mail.version>1.4.7</java-mail.version>
         <jsp-api.version>2.2</jsp-api.version>
         <jstl.version>1.2</jstl.version>
-        <log4j2.version>2.13.3</log4j2.version>
+        <log4j2.version>2.17.1</log4j2.version>
         <lucene.version>4.10.4</lucene.version>
         <oauth-core.version>20100527</oauth-core.version>
         <maven-war.version>3.1.0</maven-war.version>
